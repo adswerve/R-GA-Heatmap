@@ -8,7 +8,7 @@ This script will connect R with Google Analytics and construct a heatmap of sess
 2. gplots - Constructs a heatmap
 
 ### More
-For a detailed, step by step tutorial visit blogpost at [Analytics Pros](www.analyticspros.com/blog/ga-r-heatmap-tutorial/).
+For a detailed, step by step tutorial visit blogpost at [Analytics Pros](http://www.analyticspros.com/blog/ga-r-heatmap-tutorial/).
 
 ### Output 
 ![Heatmap](figure/HeatmapOfHourlySessions.png) 
